@@ -28,7 +28,6 @@ stock-market-ml/ <br/>
 │   ├── feature_engineering.py <br/>
 │   ├── train_model.py <br/>
 │   └── get_sp500_tickers.py <br/>
-├── notebooks/              # Jupyter analysis notebooks <br/>
 ├── R/ <br/>
 │   └── app.R               # Shiny dashboard <br/>
 └── tickers.txt             # Ticker list (S&P 500) <br/>

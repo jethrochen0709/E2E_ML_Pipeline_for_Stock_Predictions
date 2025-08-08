@@ -57,7 +57,7 @@ python scripts/train_model.py
 
 setwd("~/Documents/stock-market-ml")
 shiny::runApp("R/app.R")
-
+```
 
 ⸻
 
@@ -72,3 +72,4 @@ shiny::runApp("R/app.R")
 	•	Add backtesting + P&L simulation
 	•	Integrate SHAP for feature explainability
 	•	Deploy app via shinyapps.io
+
